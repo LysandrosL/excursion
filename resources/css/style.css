@@ -11,7 +11,7 @@ body {
     position: centered;
 }
 
-.header h3 {
+.header h5 {
     color: aquamarine;
     font-size: 16px;
 }
@@ -26,3 +26,16 @@ body {
     font-size: 21px;
     color: gray;
 }
+
+.footer h1 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.footer h5 {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+
